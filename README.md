@@ -1,5 +1,9 @@
 # MM3DHD_FR
 Une traduction française du projet MM3DHD / A french translation of the MM3DHD project
+---> https://github.com/DeathWrench/MM3DHD
+
+NOTE : Je ne suis pas officiellement le traducteur du pack MM3DHD, seulement le premier à le faire en français. Si une autre personne est officiellement désigné, je n'hésiterai pas à donner le contrôle de ce repository/rediriger vers la version officielle, il suffit simplement de me contacter.
+       I am not the official translator of the patch, merely the first one to do it in french. If another person is officialy designated, i won't hesitate to give up the control of this repository / redirect to the official version, simply contact me.
 
 Pour installez, mettez simplement les textures dans le dossier user>load>textures>0004000000125600 OU 0004000000125500 selon votre version.
 Le moyen le plus rapide d'y accéder est de faire un clic droit sur le jeu, puis d'aller dans Ouvrir l'emplacement personalisé des textures
